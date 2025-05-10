@@ -1,14 +1,14 @@
 {
   "bot-account": {
-    "username": "bot",
-    "password": "your_password",
+    "username": "afk-bot",
+    "password": "Zalo060612",
     "type": "microsoft"
   },
 
   "server": {
-    "ip": "localhost",
+    "ip": "caoanhthu-YCss.aternos.me:57304",
     "port": 25565,
-    "version": "1.19.3"
+    "version": "1.20.1"
   },
 
   "position": {
